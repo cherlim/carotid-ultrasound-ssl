@@ -1,0 +1,2 @@
+encoder,seed,n_train_labels,frozen_encoder,best_val_auc,auc,accuracy,f1,precision,recall
+ImageNet,42,1740,True,0.9243994943109988,0.8659203770726369,0.7706422018348624,0.75,0.8241758241758241,0.6880733944954128
